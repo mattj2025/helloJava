@@ -9,6 +9,7 @@ public class HelloWorld {
 	public static void main(String[] Args) {
 		
 		System.out.printf("Hello World!\n");
+		System.out.printf("My major is Computer Science!");
 		
 	}
 }
